@@ -27,7 +27,7 @@ Or for development:
 
 .. code:: sh
 
-	$ git clone https://github.com/mstolyarchuk/marc2bib
+	$ git clone https://github.com/Hubhubhurra/marc2bib
 	$ pip install -e marc2bib
 
 Quickstart
